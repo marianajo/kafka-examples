@@ -5,6 +5,7 @@ Source code for what I'm learning on Kafka.
 ## Streams API
 
 - [Wordcount](./streams/wordcount)
+- [Favourite Colour](./streams/favouritecolour)
 
 ## Dependencies
 
